@@ -65,18 +65,18 @@ Make sure you have the following installed:
 ---
 
 ## 🔧 Installation
-Clone the repo
+- Clone the repo
     ```bash
     git clone https://github.com/your-username/weather-app.git
     cd weather-app
     ```
 
-Install dependencies
+- Install dependencies
     ```bash
     npm install
     ```
 
-Start the development server
+- Start the development server
     ```bash
     npx expo start
     ```
