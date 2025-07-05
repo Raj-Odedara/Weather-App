@@ -3,7 +3,7 @@
 **Weather App** is a cross-platform mobile app (📱 **Android & iOS**) that provides accurate, real-time weather information using location services and search functionality. Built with **React Native** and **Expo**, the app delivers a smooth and responsive experience across all devices.
 
 <p align="center">
-  <img src="./assets/Screenshots/HomeScreen.jpg" width="300" alt="Home Screen" />
+  <img src="./assets/Screenshots/WeatherAppThumbnail.png" width="300" alt="Home Screen" />
 </p>
 
 ---
