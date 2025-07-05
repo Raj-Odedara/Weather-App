@@ -54,13 +54,15 @@ Make sure you have the following installed:
   ```bash
   npm install -g expo-cli
 
-📦 Dependencies Used
--**react-native**
--**expo**
--**expo-location**
--**@react-native-async-storage/async-storage**
--**axios**
--**react-native-svg** (for icons and graphs if used)
+---
+##📦 Dependencies Used
+- **react-native**
+- **expo**
+- **expo-location**
+- **@react-native-async-storage/async-storage**
+- **axios**
+- **react-native-svg** (for icons and graphs if used)
+---
 
 ## 🔧 Installation
 Clone the repo
