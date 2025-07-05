@@ -55,7 +55,7 @@ Make sure you have the following installed:
   npm install -g expo-cli
 
 ---
-##📦 Dependencies Used
+## 📦 Dependencies Used
 - **react-native**
 - **expo**
 - **expo-location**
